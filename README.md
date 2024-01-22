@@ -4,3 +4,7 @@ A red Teamer with open mind 🎅 • Main Focus Web and Cloud Security ☁ • L
 B.SC. in Cyber Security (in progress) 👨‍🎓
 
 "Those who judge others based on their knowledge will always be blind"
+
+<a href="https://www.linkedin.com/in/kevin-soares-437505205/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
