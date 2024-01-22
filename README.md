@@ -8,9 +8,9 @@ B.SC. in Cyber Security (in progress) 👨‍🎓
 "Those who judge others based on their knowledge will always be blind"
 
 
-<video>
-<source type="video/gif" src="https://c.tenor.com/8UvDh0E28cIAAAAC/tenor.gif">
-</video>
+
+![]("https://c.tenor.com/8UvDh0E28cIAAAAC/tenor.gif")
+
 
 
 <a href="https://www.linkedin.com/in/kevin-soares-437505205/" target="_blank">
