@@ -2,10 +2,11 @@
 
 I'm  Keres
 
-A red Teamer with many points of view 🎅 • Main Focus Web and Cloud Security ☁ • Low Level Script language in Go and Python👨‍💻
-B.SC. in Cyber Security (in progress) 👨‍🎓
+A Red Teamer with diverse perspectives 🎅 • Main focus on web and cloud security ☁ • Skilled in low-level scripting languages such as Go and Python 👨‍💻
+B.Sc. in Cyber Security (in progress) 👨‍🎓
 
 "Those who judge others based on their knowledge will always be blind"
+
 
 ![Gintoki](https://github.com/K3res/K3res/assets/89378576/1ed162a9-49d5-4e76-a214-815ac7d8c5fb)
 
