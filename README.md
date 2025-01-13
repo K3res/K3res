@@ -5,7 +5,7 @@ I'm  Keres
 A Red Teamer with diverse perspectives 🎅 • Main focus on web and cloud security ☁ • Skilled in low-level scripting languages such as Go and Python 👨‍💻
 B.Sc. in Cyber Security (in progress) 👨‍🎓
 
-"Those who judge others based on their knowledge will always be blind"
+"Don't look at others, look at yourself"
 
 
 ![Gintoki](https://github.com/K3res/K3res/assets/89378576/1ed162a9-49d5-4e76-a214-815ac7d8c5fb)
