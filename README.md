@@ -1,8 +1,8 @@
 <div align=center>
 
-I'm  Keres
+I'm  K3res
 
-A Red Teamer with diverse perspectives 🎅 • Main focus on web and cloud security ☁ • Skilled in low-level scripting languages such as Go and Python 👨‍💻
+An aspiring Red Teamer with diverse perspectives 🎅 • Main focus on web and cloud security ☁ • Skilled in low-level scripting languages such as Go,Rust and Python 👨‍💻
 B.Sc. in Cyber Security (in progress) 👨‍🎓
 
 "Don't look at others, look at yourself"
