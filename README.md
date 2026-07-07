@@ -2,7 +2,7 @@
 
 I'm  K3res
 
-An aspiring Red Teamer with diverse perspectives 🎅 • Main focus on web and cloud security ☁ • Skilled in low-level scripting languages such as Go,Rust and Python 👨‍💻
+An aspiring Pentester with diverse perspectives 🎅 • Main focus on web and cloud security ☁ • Skilled in low-level scripting languages such as Go,Rust and Python 👨‍💻
 B.Sc. in Cyber Security (in progress) 👨‍🎓
 
 "Don't look at others, look at yourself"
